@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+    font-family: Montserrat;
+}
+
+.midle-rows {
+    display: inline-grid;
+
+}
+.rows{
+    margin: 3rem;
+}
+h1{
+    color: green ;
+}
+h2{
+    color:orange
+}
+.carousel {
+   margin: 2rem 30rem;
+   width: 50rem;
+  }
+
+  #footer{
+    margin-top: 5.5rem;
+    
+  }
+
+
